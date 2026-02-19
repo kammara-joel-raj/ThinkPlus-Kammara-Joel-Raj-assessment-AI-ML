@@ -98,8 +98,8 @@ README.md                       # This file
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
-cd ai_teaching_assistant
+git clone https://github.com/kammara-joel-raj/ThinkPlus-Kammara-Joel-Raj-assessment-AI-ML.git
+cd thinkpluss
 
 # Create virtual environment
 python -m venv venv
@@ -116,13 +116,13 @@ python -c "import nltk; nltk.download('punkt')"
 
 ```bash
 # Run demo mode (5 example queries)
-python ai_teaching_assistant/main.py --mode demo
+python main.py --mode demo
 
 # Run interactive mode
-python ai_teaching_assistant/main.py --mode interactive
+python main.py --mode interactive
 
 # Process single query
-python ai_teaching_assistant/main.py --query "I don't understand backpropagation"
+python main.py --query "I don't understand backpropagation"
 ```
 
 ---
@@ -131,7 +131,7 @@ python ai_teaching_assistant/main.py --query "I don't understand backpropagation
 
 ### Synthetic Dataset Generation
 
-**File**: `ai_teaching_assistant/data/synthetic_queries.json`  
+**File**: `data/synthetic_queries.json`  
 **Size**: ~450 KB (under 50 MB limit)  
 **Samples**: 3000 queries
 
