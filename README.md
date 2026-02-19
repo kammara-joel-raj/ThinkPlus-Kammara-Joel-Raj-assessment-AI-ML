@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 AI-Powered Teaching Assistant
 
 ## Advanced NLP + Reinforcement Learning for Personalized Education
@@ -383,3 +384,7 @@ MIT License - See LICENSE file for details
 ---
 
 **Built with ❤️ for EdTech Hackathon 2026**
+=======
+# ThinkPlus-Kammara-Joel-Raj-assessment-AI-ML
+AU Campus Recruitment 2026 AI/ML Engineer – Individual Technical Assessment
+>>>>>>> 17e660bb5045b63661cfdf5442230ec2d69e6c79
